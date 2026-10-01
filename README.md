@@ -50,7 +50,7 @@ Proyecto final de **Fundamentos de Inteligencia Artificial** — Universidad EIA
 
 ## Equipo
 
-| Integrante | Rol |
+| Integrante | GitHub |
 | :--- | :--- |
 | Juan Jose Jaramillo Mora | [@Juanjo1414](https://github.com/Juanjo1414) |
 | Sebastian Giraldo Franco | [@sebasgiraldo69](https://github.com/sebasgiraldo69) |
