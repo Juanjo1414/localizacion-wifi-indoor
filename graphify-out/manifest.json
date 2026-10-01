@@ -1,0 +1,92 @@
+{
+  "app.py": {
+    "mtime": 1790892067.1476638,
+    "seen": 1790897531.5110161,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "pyproject.toml": {
+    "mtime": 1790894496.5433195,
+    "seen": 1790897531.5110302,
+    "ast_hash": "08f46e96c3c096d533046834eb5c1e1d",
+    "semantic_hash": "08f46e96c3c096d533046834eb5c1e1d"
+  },
+  "CLAUDE.md": {
+    "mtime": 1790897605.6549466,
+    "seen": 1790897625.3237655,
+    "ast_hash": "4f955fc28b059f1b8b02deb171686f7b",
+    "semantic_hash": ""
+  },
+  "PLAN.md": {
+    "mtime": 1790894812.776201,
+    "seen": 1790897531.511039,
+    "ast_hash": "82acf93810d7ab33f876735ab4cb1826",
+    "semantic_hash": "82acf93810d7ab33f876735ab4cb1826"
+  },
+  "README.md": {
+    "mtime": 1790896490.4901798,
+    "seen": 1790897531.511042,
+    "ast_hash": "563e6f303c47edb44b1c6029a1950f9f",
+    "semantic_hash": "563e6f303c47edb44b1c6029a1950f9f"
+  },
+  "requirements.txt": {
+    "mtime": 1790892211.9242783,
+    "seen": 1790897531.5110445,
+    "ast_hash": "17fdde1a41e3ff992e3710eef6a53ac9",
+    "semantic_hash": "17fdde1a41e3ff992e3710eef6a53ac9"
+  },
+  "figuras/correlacion_phik_metadatos.png": {
+    "mtime": 1790895187.231582,
+    "seen": 1790897531.5110474,
+    "ast_hash": "a3fdc67ef424e7e0578d2e6a6b2f9836",
+    "semantic_hash": "a3fdc67ef424e7e0578d2e6a6b2f9836"
+  },
+  "figuras/correlacion_top20_waps.png": {
+    "mtime": 1790895188.7311468,
+    "seen": 1790897531.5110497,
+    "ast_hash": "2ccfdc1045fedfeed9b16b7f617d9b4c",
+    "semantic_hash": "2ccfdc1045fedfeed9b16b7f617d9b4c"
+  },
+  "figuras/detecciones_por_fila.png": {
+    "mtime": 1790895182.32206,
+    "seen": 1790897531.5110524,
+    "ast_hash": "13a59a16e794e6e944105711af044466",
+    "semantic_hash": "13a59a16e794e6e944105711af044466"
+  },
+  "figuras/distribucion_bf_test.png": {
+    "mtime": 1790895179.6602795,
+    "seen": 1790897531.5110545,
+    "ast_hash": "7ba3a4a1760695b6886506f7c822688c",
+    "semantic_hash": "7ba3a4a1760695b6886506f7c822688c"
+  },
+  "figuras/distribucion_bf_train.png": {
+    "mtime": 1790895179.2780604,
+    "seen": 1790897531.5110571,
+    "ast_hash": "fa87212de0e565475a03757802e5a626",
+    "semantic_hash": "fa87212de0e565475a03757802e5a626"
+  },
+  "figuras/histograma_senales_detectadas.png": {
+    "mtime": 1790895182.08722,
+    "seen": 1790897531.5110602,
+    "ast_hash": "4603ce1a5610c9328ddccc8488e96463",
+    "semantic_hash": "4603ce1a5610c9328ddccc8488e96463"
+  },
+  "figuras/mapa_edificios.png": {
+    "mtime": 1790895180.433526,
+    "seen": 1790897531.511063,
+    "ast_hash": "790f9015385d63a294a920aa0f0aa02f",
+    "semantic_hash": "790f9015385d63a294a920aa0f0aa02f"
+  },
+  "figuras/mapa_pisos_edificio0.png": {
+    "mtime": 1790895181.4826987,
+    "seen": 1790897531.5110652,
+    "ast_hash": "0007a87a30e117ef446003a748c2670b",
+    "semantic_hash": "0007a87a30e117ef446003a748c2670b"
+  },
+  ".claude/settings.json": {
+    "mtime": 1790897605.6728234,
+    "seen": 1790897625.3237507,
+    "ast_hash": "d52bdbb556ce58d72ec9e6108b4d40b7",
+    "semantic_hash": ""
+  }
+}
