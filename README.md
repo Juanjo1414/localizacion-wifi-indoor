@@ -54,7 +54,7 @@ Proyecto final de **Fundamentos de Inteligencia Artificial** — Universidad EIA
 | :--- | :--- |
 | Juan Jose Jaramillo Mora | [@Juanjo1414](https://github.com/Juanjo1414) |
 | Sebastian Giraldo Franco | [@sebasgiraldo69](https://github.com/sebasgiraldo69) |
-| Martin Restrepo | _pendiente_ |
+| Martin Restrepo | [@martinrestrepoc](https://github.com/martinrestrepoc) |
 | Miguel Angel Zuleta | _pendiente_ |
 | Julian Mora | _pendiente_ |
 | Santiago Zuluaga | _pendiente_ |
