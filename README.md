@@ -56,7 +56,7 @@ Proyecto final de **Fundamentos de Inteligencia Artificial** — Universidad EIA
 | Sebastian Giraldo Franco | [@sebasgiraldo69](https://github.com/sebasgiraldo69) |
 | Martin Restrepo | [@martinrestrepoc](https://github.com/martinrestrepoc) |
 | Miguel Angel Zuleta | [@miguel142434](https://github.com/miguel142434) |
-| Julian Mora | _pendiente_ |
+| Julian Mora | [@julian95mora25](https://github.com/julian95mora25) |
 | Santiago Zuluaga | [@santiago-zuluaga](https://github.com/santiago-zuluaga) |
 
 ## El problema
