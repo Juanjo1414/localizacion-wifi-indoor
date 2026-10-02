@@ -57,7 +57,7 @@ Proyecto final de **Fundamentos de Inteligencia Artificial** — Universidad EIA
 | Martin Restrepo | [@martinrestrepoc](https://github.com/martinrestrepoc) |
 | Miguel Angel Zuleta | [@miguel142434](https://github.com/miguel142434) |
 | Julian Mora | _pendiente_ |
-| Santiago Zuluaga | _pendiente_ |
+| Santiago Zuluaga | [@santiago-zuluaga](https://github.com/santiago-zuluaga) |
 
 ## El problema
 
